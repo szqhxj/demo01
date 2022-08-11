@@ -21,5 +21,14 @@ public class HelloGit {
         System.out.println("你好 git");
         System.out.println("你好 git");
         System.out.println("你好 git");
+         System.out.println("你好 git");
+        System.out.println("你好 git");
+        System.out.println("你好 git  pull");
+        System.out.println("你好 git  pull");
+        System.out.println("你好 git  pull");
+        System.out.println("你好 git  pull");
+        System.out.println("你好 git  pull");
+        System.out.println("你好 git  pull");
+        System.out.println("你好 git  pull");
     }
 }
